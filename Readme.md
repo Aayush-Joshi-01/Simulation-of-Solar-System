@@ -22,7 +22,7 @@ This Python project simulates the inner solar system based on Newton's law of gr
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/solar-system-simulation.git
+git clone https://github.com/Aayush-Joshi-01/Simulation-of-Solar-System.git
 ```
 
 2. Install the required dependencies using pip:
@@ -36,13 +36,13 @@ pip install pygame
 1. Navigate to the project directory:
 
 ```bash
-cd solar-system-simulation
+cd Simulation-of-Solar-System
 ```
 
 2. Run the simulation:
 
 ```bash
-python main.py
+python Simulation.py
 ```
 
 3. Use the following controls to interact with the simulation:
